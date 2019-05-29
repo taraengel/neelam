@@ -1,3 +1,36 @@
+
 h1 {
   font-family: 'Poppins', sans-serif;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0px 50px;
+  clear: both;
+}
+
+.main-content {
+  display: table-cell;
+  vertical-align: middle;
+  position: relative;
+}
+
+.section-content {
+  display: inline-block;
+  display: flex;
+  justify-content: space-between;
+}
+
+.section-button {
+
+}
+
+img {
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
 }
