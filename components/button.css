@@ -13,7 +13,7 @@
   position: relative;
   width: 150px;
   /*make sure to use same height/width as in the html*/
-  height: 40px;
+  height: 60px;
   display: inline-block;
   border-radius: 3px;
   margin-left: 5px;
@@ -23,8 +23,8 @@
 #shape {
   stroke-width: 6px;
   fill: transparent;
-  stroke: #009FFD;
-  stroke-dasharray: 85 400;
+  stroke: #06D6A0 ;
+  stroke-dasharray: 286 00;
   stroke-dashoffset: -220;
   transition: 1s all ease;
 }
@@ -47,7 +47,7 @@
   stroke-dasharray: 50 0;
   stroke-width: 3px;
   stroke-dashoffset: 0;
-  stroke: #06D6A0;
+  stroke: #958CFF;
 }
 
 #text-size {
